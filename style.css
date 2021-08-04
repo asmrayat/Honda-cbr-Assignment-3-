@@ -1,0 +1,23 @@
+.my-head-color{
+    background-color: #264653;
+}
+.my-clr{
+    background-color: #E76F51;
+}
+.my-text-clr{
+    color: #E76F51;
+}
+.my-style-grayscale{
+    filter: grayscale(100%);
+}
+footer{
+    color: white;
+    background-color: black;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-top: 50px ;
+    width: 100%;
+}
+.my-youtube-color{
+    color: #F70000;
+}
