@@ -1,5 +1,4 @@
-# Honda-cbr-Assignment-3-
-Live Site
+# Honda-cbr-Assignment-3
 
 ![h1](https://user-images.githubusercontent.com/86654494/130671321-65c5db57-9fa0-4467-9ffe-2e6497c723bc.png)
 ![h2](https://user-images.githubusercontent.com/86654494/130671420-78ac1080-978f-4638-82ab-926edcb54911.png)
